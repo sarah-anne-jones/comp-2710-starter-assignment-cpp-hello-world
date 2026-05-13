@@ -6,7 +6,9 @@ The goal of this assignment is to give you a brief introduction to the tools tha
 
 ## :octocat: Using Jenkins
 
-Jenkins is the tool that we will be using to automate compiling and running our code. Please see the pdf on using Jenkins. 
+Jenkins is the tool that we will be using to automate compiling and running our code. In order to even access the Jenkins Server, you will need to first log onto the Auburn VPN. You will find information on how to do this in Module 1 resources. 
+
+For instructions on how to use Jenkins, please see the pdf on using Jenkins that you will find here in this repo. 
 
 ## :octocat: Github API token 
 
