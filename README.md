@@ -12,17 +12,17 @@ For instructions on how to use Jenkins, please see the pdf on using Jenkins that
 
 ## :octocat: Github API token 
 
-We will need an api key in order to allow jenkins to access our github repo (since they will be set to private). Please see the tutorial on creating a github api token.
+We may need an api key in order to allow jenkins to access our github repo. Please see the tutorial on creating a github api token.
 
 ### Repositories
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files. Each group should have it's own repository. It doesn't matter which group member initiates the repository, but that group member will need to invite the other one. Only ONE group member should accept the invitation.
+A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files. Each group should have it's own repository. It doesn't matter which group member initiates the repository, but that group member will need to invite the other one.
 
 ## :desktop_computer: CPP
 
 All of the code that you upload to your github repos should be in a similar format (so that it will work more easily with jenkins). You should have your code files (.cpp) and you should have a makefile that is used to build that code. Take a look at the examples here. Experiment with some of the code and run the job in Jenkins to see what happens. 
 
-Modify the code as described in main.cpp and run a job on jenkins that will compile and run the file. Your program should produce some output in the jenkins console.
+Modify the code as described in main.cpp and run a job on jenkins that will compile and run the file. Your program should produce some output in the jenkins console (it should print something on the console of the jenkins workstation). You should name your job **[student id]-hw1**. For example, mine would be **ras0054-hw1**.  
 
 ## :writing_hand: Github Codespaces
 
